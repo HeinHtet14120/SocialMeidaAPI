@@ -1,0 +1,16 @@
+flask
+mysql-connector-python
+passlib
+pyjwt
+Flask-Limiter
+flask-restx
+python-dateutil
+sendgrid
+python-dotenv
+pyotp
+flask-jwt-extended
+qrcode
+pandas
+numpy
+stripe
+gunicorn

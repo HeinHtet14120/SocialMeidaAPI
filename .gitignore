@@ -1,0 +1,8 @@
+__pycache__
+model/__pycache__/
+util/__pycache__/
+static/post_images
+static/QR_Codes
+env/
+sendgrid.env
+static/profile_image
